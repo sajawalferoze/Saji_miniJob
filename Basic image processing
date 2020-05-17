@@ -1,0 +1,30 @@
+Basic image processing 
+
+
+OpenCV
+Using OpenCV : OpenCV (Open Source Computer Vision) is a computer vision library that contains various functions to perform
+ operations on pictures or videos. It was originally developed by Intel but was later maintained by Willow Garage and is now
+ maintained by Itseez. This library is cross-platform that is it is available on multiple programming languages such as Python, C++ etc.
+ 
+ conda command to install 
+ conda install -c conda-forge opencv
+ 
+ 
+normalize 
+
+feature 1 : 30 - 70 -----> 0.428 - 1
+
+
+feature 2 : 500000000000 - 40000000000000000000000 ----->  .0001  - 1
+
+Thresholding 
+
+feature 1 : 30 - 70 (50) -----> 0 - 1
+
+
+feature 2 : 500000000000 - 40000000000000000000000 ----->  0  - 1
+
+
+111
+1c1
+111
